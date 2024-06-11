@@ -1,4 +1,4 @@
-package factoryMethod;
+package Design_pattern.Creational_pattern.factoryMethod;
 
 // Lớp RectangleFactory cũng là một lớp con của ShapeFactory
 public class RectangleFactory extends ShapeFactory {

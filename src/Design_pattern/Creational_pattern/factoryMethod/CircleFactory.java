@@ -1,4 +1,4 @@
-package factoryMethod;
+package Design_pattern.Creational_pattern.factoryMethod;
 
 // Lớp CircleFactory là một lớp con của ShapeFactory
 public class CircleFactory extends ShapeFactory {

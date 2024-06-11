@@ -1,4 +1,4 @@
-package factoryMethod;
+package Design_pattern.Creational_pattern.factoryMethod;
 
 
 public class Main {

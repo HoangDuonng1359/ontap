@@ -1,4 +1,4 @@
-package factoryMethod;
+package Design_pattern.Creational_pattern.factoryMethod;
 
 // Lớp cơ sở ShapeFactory khai báo một phương thức factory method
 // Mọi lớp con của ShapeFactory cần triển khai phương thức này để tạo đối tượng hình học cụ thể.

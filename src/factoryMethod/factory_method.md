@@ -29,7 +29,7 @@
 * ConcreteCrator: ghi đè factory method để trả về một instance của concreteproduct.
 ## Ví dụ
 ![img_1.png](img_1.png)
-#### Product : Shape 
+#### Abstract Product : Shape 
 #### ConcreteProduct: Rectangle
 #### ConcreteProduct: Circle
 #### Creator: ShapeFactory

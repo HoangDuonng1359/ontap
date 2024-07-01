@@ -1,4 +1,4 @@
-package Windows;
+package Design_pattern.Structural_pattern.Windows.Composite;
 
 public class Shortcut extends Item{
 

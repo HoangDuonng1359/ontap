@@ -1,4 +1,4 @@
-package Windows;
+package Design_pattern.Structural_pattern.Windows.Composite;
 
 public class Main {
     public static void main(String[] args) {
